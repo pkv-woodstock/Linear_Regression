@@ -1,6 +1,6 @@
-#ACME Insurance Medical Expenditure Estimation
+# ACME Insurance Medical Expenditure Estimation
 <br>
-##Overview
+## Overview
 <br>
 ACME Insurance Inc. requires an automated system to estimate the annual medical expenditure for new customers, using various factors such as age, sex, BMI, number of children, smoking habits, and region of residence. The goal is to use this estimation to determine the annual insurance premium offered to the customer. It is crucial for regulatory compliance that the system provides transparent explanations for its predictions.
 
